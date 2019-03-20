@@ -198,7 +198,7 @@ export default {
           .then(response => {
             console.log(response.data.msg);
             this.rateOut = response.data.data.rate.toFixed(10);
-            this.valueOut = response.data.data.result;
+            this.valueOut = response.data.data.result.toFixed(5);
           })
           .catch(error => {
             console.log(error);
