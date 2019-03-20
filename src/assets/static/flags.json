@@ -1,0 +1,618 @@
+[
+    {
+        "code": "AFN",
+        "flag": "https://restcountries.eu/data/afg.svg"
+    },
+    {
+        "code": "EUR",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+    },
+    {
+        "code": "ALL",
+        "flag": "https://restcountries.eu/data/alb.svg"
+    },
+    {
+        "code": "DZD",
+        "flag": "https://restcountries.eu/data/dza.svg"
+    },
+    {
+        "code": "USD",
+        "flag": "https://restcountries.eu/data/usa.svg"
+    },
+    {
+        "code": "AOA",
+        "flag": "https://restcountries.eu/data/ago.svg"
+    },
+    {
+        "code": "ARS",
+        "flag": "https://restcountries.eu/data/arg.svg"
+    },
+    {
+        "code": "AMD",
+        "flag": "https://restcountries.eu/data/arm.svg"
+    },
+    {
+        "code": "AWG",
+        "flag": "https://restcountries.eu/data/abw.svg"
+    },
+    {
+        "code": "AUD",
+        "flag": "https://restcountries.eu/data/aus.svg"
+    },
+    {
+        "code": "AZN",
+        "flag": "https://restcountries.eu/data/aze.svg"
+    },
+    {
+        "code": "BSD",
+        "flag": "https://restcountries.eu/data/bhs.svg"
+    },
+    {
+        "code": "BHD",
+        "flag": "https://restcountries.eu/data/bhr.svg"
+    },
+    {
+        "code": "BDT",
+        "flag": "https://restcountries.eu/data/bgd.svg"
+    },
+    {
+        "code": "BBD",
+        "flag": "https://restcountries.eu/data/brb.svg"
+    },
+    {
+        "code": "BYR",
+        "flag": "https://restcountries.eu/data/blr.svg"
+    },
+    {
+        "code": "BZD",
+        "flag": "https://restcountries.eu/data/blz.svg"
+    },
+    {
+        "code": "BMD",
+        "flag": "https://restcountries.eu/data/bmu.svg"
+    },
+    {
+        "code": "BTN",
+        "flag": "https://restcountries.eu/data/btn.svg"
+    },
+    {
+        "code": "BOB",
+        "flag": "https://restcountries.eu/data/bol.svg"
+    },
+    {
+        "code": "BAM",
+        "flag": "https://restcountries.eu/data/bih.svg"
+    },
+    {
+        "code": "BND",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg"
+    },
+    {
+        "code": "BWP",
+        "flag": "https://restcountries.eu/data/bwa.svg"
+    },
+    {
+        "code": "BRL",
+        "flag": "https://restcountries.eu/data/bra.svg"
+    },
+    {
+        "code": "BGN",
+        "flag": "https://restcountries.eu/data/bgr.svg"
+    },
+    {
+        "code": "BIF",
+        "flag": "https://restcountries.eu/data/bdi.svg"
+    },
+    {
+        "code": "CAD",
+        "flag": "https://restcountries.eu/data/can.svg"
+    },
+    {
+        "code": "CVE",
+        "flag": "https://restcountries.eu/data/cpv.svg"
+    },
+    {
+        "code": "KYD",
+        "flag": "https://restcountries.eu/data/cym.svg"
+    },
+    {
+        "code": "XAF",
+        "flag": "https://restcountries.eu/data/caf.svg"
+    },
+    {
+        "code": "CLP",
+        "flag": "https://restcountries.eu/data/chl.svg"
+    },
+    {
+        "code": "CNY",
+        "flag": "https://restcountries.eu/data/chn.svg"
+    },
+    {
+        "code": "COP",
+        "flag": "https://restcountries.eu/data/col.svg"
+    },
+    {
+        "code": "KMF",
+        "flag": "https://restcountries.eu/data/com.svg"
+    },
+    {
+        "code": "CDF",
+        "flag": "https://restcountries.eu/data/cod.svg"
+    },
+    {
+        "code": "CKD",
+        "flag": "https://restcountries.eu/data/cok.svg"
+    },
+    {
+        "code": "CRC",
+        "flag": "https://restcountries.eu/data/cri.svg"
+    },
+    {
+        "code": "HRK",
+        "flag": "https://restcountries.eu/data/hrv.svg"
+    },
+    {
+        "code": "CUP",
+        "flag": "https://restcountries.eu/data/cub.svg"
+    },
+    {
+        "code": "ANG",
+        "flag": "https://restcountries.eu/data/cuw.svg"
+    },
+    {
+        "code": "CZK",
+        "flag": "https://restcountries.eu/data/cze.svg"
+    },
+    {
+        "code": "DKK",
+        "flag": "https://restcountries.eu/data/dnk.svg"
+    },
+    {
+        "code": "DJF",
+        "flag": "https://restcountries.eu/data/dji.svg"
+    },
+    {
+        "code": "DOP",
+        "flag": "https://restcountries.eu/data/dom.svg"
+    },
+    {
+        "code": "EGP",
+        "flag": "https://restcountries.eu/data/egy.svg"
+    },
+    {
+        "code": "ERN",
+        "flag": "https://restcountries.eu/data/eri.svg"
+    },
+    {
+        "code": "ETB",
+        "flag": "https://restcountries.eu/data/eth.svg"
+    },
+    {
+        "code": "FKP",
+        "flag": "https://restcountries.eu/data/flk.svg"
+    },
+    {
+        "code": "FJD",
+        "flag": "https://restcountries.eu/data/fji.svg"
+    },
+    {
+        "code": "GMD",
+        "flag": "https://restcountries.eu/data/gmb.svg"
+    },
+    {
+        "code": "GEL",
+        "flag": "https://restcountries.eu/data/geo.svg"
+    },
+    {
+        "code": "GHS",
+        "flag": "https://restcountries.eu/data/gha.svg"
+    },
+    {
+        "code": "GIP",
+        "flag": "https://restcountries.eu/data/gib.svg"
+    },
+    {
+        "code": "GTQ",
+        "flag": "https://restcountries.eu/data/gtm.svg"
+    },
+    {
+        "code": "GNF",
+        "flag": "https://restcountries.eu/data/gin.svg"
+    },
+    {
+        "code": "GYD",
+        "flag": "https://restcountries.eu/data/guy.svg"
+    },
+    {
+        "code": "HTG",
+        "flag": "https://restcountries.eu/data/hti.svg"
+    },
+    {
+        "code": "HNL",
+        "flag": "https://restcountries.eu/data/hnd.svg"
+    },
+    {
+        "code": "HKD",
+        "flag": "https://restcountries.eu/data/hkg.svg"
+    },
+    {
+        "code": "HUF",
+        "flag": "https://restcountries.eu/data/hun.svg"
+    },
+    {
+        "code": "ISK",
+        "flag": "https://restcountries.eu/data/isl.svg"
+    },
+    {
+        "code": "INR",
+        "flag": "https://restcountries.eu/data/ind.svg"
+    },
+    {
+        "code": "IDR",
+        "flag": "https://restcountries.eu/data/idn.svg"
+    },
+    {
+        "code": "IRR",
+        "flag": "https://restcountries.eu/data/irn.svg"
+    },
+    {
+        "code": "IQD",
+        "flag": "https://restcountries.eu/data/irq.svg"
+    },
+    {
+        "code": "IMP",
+        "flag": "https://restcountries.eu/data/imn.svg"
+    },
+    {
+        "code": "ILS",
+        "flag": "https://restcountries.eu/data/isr.svg"
+    },
+    {
+        "code": "JMD",
+        "flag": "https://restcountries.eu/data/jam.svg"
+    },
+    {
+        "code": "JPY",
+        "flag": "https://restcountries.eu/data/jpn.svg"
+    },
+    {
+        "code": "JEP",
+        "flag": "https://restcountries.eu/data/jey.svg"
+    },
+    {
+        "code": "JOD",
+        "flag": "https://restcountries.eu/data/jor.svg"
+    },
+    {
+        "code": "KZT",
+        "flag": "https://restcountries.eu/data/kaz.svg"
+    },
+    {
+        "code": "KES",
+        "flag": "https://restcountries.eu/data/ken.svg"
+    },
+    {
+        "code": "KWD",
+        "flag": "https://restcountries.eu/data/kwt.svg"
+    },
+    {
+        "code": "KGS",
+        "flag": "https://restcountries.eu/data/kgz.svg"
+    },
+    {
+        "code": "LAK",
+        "flag": "https://restcountries.eu/data/lao.svg"
+    },
+    {
+        "code": "LBP",
+        "flag": "https://restcountries.eu/data/lbn.svg"
+    },
+    {
+        "code": "LRD",
+        "flag": "https://restcountries.eu/data/lbr.svg"
+    },
+    {
+        "code": "LYD",
+        "flag": "https://restcountries.eu/data/lby.svg"
+    },
+    {
+        "code": "MOP",
+        "flag": "https://restcountries.eu/data/mac.svg"
+    },
+    {
+        "code": "MKD",
+        "flag": "https://restcountries.eu/data/mkd.svg"
+    },
+    {
+        "code": "MGA",
+        "flag": "https://restcountries.eu/data/mdg.svg"
+    },
+    {
+        "code": "MWK",
+        "flag": "https://restcountries.eu/data/mwi.svg"
+    },
+    {
+        "code": "MYR",
+        "flag": "https://restcountries.eu/data/mys.svg"
+    },
+    {
+        "code": "MVR",
+        "flag": "https://restcountries.eu/data/mdv.svg"
+    },
+    {
+        "code": "MRO",
+        "flag": "https://restcountries.eu/data/mrt.svg"
+    },
+    {
+        "code": "MUR",
+        "flag": "https://restcountries.eu/data/mus.svg"
+    },
+    {
+        "code": "MXN",
+        "flag": "https://restcountries.eu/data/mex.svg"
+    },
+    {
+        "code": "MDL",
+        "flag": "https://restcountries.eu/data/mda.svg"
+    },
+    {
+        "code": "MNT",
+        "flag": "https://restcountries.eu/data/mng.svg"
+    },
+    {
+        "code": "MAD",
+        "flag": "https://restcountries.eu/data/mar.svg"
+    },
+    {
+        "code": "MZN",
+        "flag": "https://restcountries.eu/data/moz.svg"
+    },
+    {
+        "code": "MMK",
+        "flag": "https://restcountries.eu/data/mmr.svg"
+    },
+    {
+        "code": "NPR",
+        "flag": "https://restcountries.eu/data/npl.svg"
+    },
+    {
+        "code": "XPF",
+        "flag": "https://restcountries.eu/data/ncl.svg"
+    },
+    {
+        "code": "NZD",
+        "flag": "https://restcountries.eu/data/nzl.svg"
+    },
+    {
+        "code": "NIO",
+        "flag": "https://restcountries.eu/data/nic.svg"
+    },
+    {
+        "code": "XOF",
+        "flag": "https://restcountries.eu/data/ner.svg"
+    },
+    {
+        "code": "NGN",
+        "flag": "https://restcountries.eu/data/nga.svg"
+    },
+    {
+        "code": "KPW",
+        "flag": "https://restcountries.eu/data/prk.svg"
+    },
+    {
+        "code": "NOK",
+        "flag": "https://restcountries.eu/data/nor.svg"
+    },
+    {
+        "code": "OMR",
+        "flag": "https://restcountries.eu/data/omn.svg"
+    },
+    {
+        "code": "PKR",
+        "flag": "https://restcountries.eu/data/pak.svg"
+    },
+    {
+        "code": "PGK",
+        "flag": "https://restcountries.eu/data/png.svg"
+    },
+    {
+        "code": "PYG",
+        "flag": "https://restcountries.eu/data/pry.svg"
+    },
+    {
+        "code": "PEN",
+        "flag": "https://restcountries.eu/data/per.svg"
+    },
+    {
+        "code": "PHP",
+        "flag": "https://restcountries.eu/data/phl.svg"
+    },
+    {
+        "code": "PLN",
+        "flag": "https://restcountries.eu/data/pol.svg"
+    },
+    {
+        "code": "QAR",
+        "flag": "https://restcountries.eu/data/qat.svg"
+    },
+    {
+        "code": "RON",
+        "flag": "https://restcountries.eu/data/rou.svg"
+    },
+    {
+        "code": "RUB",
+        "flag": "https://restcountries.eu/data/rus.svg"
+    },
+    {
+        "code": "RWF",
+        "flag": "https://restcountries.eu/data/rwa.svg"
+    },
+    {
+        "code": "SHP",
+        "flag": "https://restcountries.eu/data/shn.svg"
+    },
+    {
+        "code": "XCD",
+        "flag": "https://restcountries.eu/data/kna.svg"
+    },
+    {
+        "code": "WST",
+        "flag": "https://restcountries.eu/data/wsm.svg"
+    },
+    {
+        "code": "STD",
+        "flag": "https://restcountries.eu/data/stp.svg"
+    },
+    {
+        "code": "SAR",
+        "flag": "https://restcountries.eu/data/sau.svg"
+    },
+    {
+        "code": "RSD",
+        "flag": "https://restcountries.eu/data/srb.svg"
+    },
+    {
+        "code": "SCR",
+        "flag": "https://restcountries.eu/data/syc.svg"
+    },
+    {
+        "code": "SLL",
+        "flag": "https://restcountries.eu/data/sle.svg"
+    },
+    {
+        "code": "SGD",
+        "flag": "https://restcountries.eu/data/sgp.svg"
+    },
+    {
+        "code": "SBD",
+        "flag": "https://restcountries.eu/data/slb.svg"
+    },
+    {
+        "code": "SOS",
+        "flag": "https://restcountries.eu/data/som.svg"
+    },
+    {
+        "code": "ZAR",
+        "flag": "https://restcountries.eu/data/zaf.svg"
+    },
+    {
+        "code": "KRW",
+        "flag": "https://restcountries.eu/data/kor.svg"
+    },
+    {
+        "code": "SSP",
+        "flag": "https://restcountries.eu/data/ssd.svg"
+    },
+    {
+        "code": "LKR",
+        "flag": "https://restcountries.eu/data/lka.svg"
+    },
+    {
+        "code": "SDG",
+        "flag": "https://restcountries.eu/data/sdn.svg"
+    },
+    {
+        "code": "SRD",
+        "flag": "https://restcountries.eu/data/sur.svg"
+    },
+    {
+        "code": "SZL",
+        "flag": "https://restcountries.eu/data/swz.svg"
+    },
+    {
+        "code": "SEK",
+        "flag": "https://restcountries.eu/data/swe.svg"
+    },
+    {
+        "code": "CHF",
+        "flag": "https://restcountries.eu/data/che.svg"
+    },
+    {
+        "code": "SYP",
+        "flag": "https://restcountries.eu/data/syr.svg"
+    },
+    {
+        "code": "TWD",
+        "flag": "https://restcountries.eu/data/twn.svg"
+    },
+    {
+        "code": "TJS",
+        "flag": "https://restcountries.eu/data/tjk.svg"
+    },
+    {
+        "code": "TZS",
+        "flag": "https://restcountries.eu/data/tza.svg"
+    },
+    {
+        "code": "THB",
+        "flag": "https://restcountries.eu/data/tha.svg"
+    },
+    {
+        "code": "TOP",
+        "flag": "https://restcountries.eu/data/ton.svg"
+    },
+    {
+        "code": "TTD",
+        "flag": "https://restcountries.eu/data/tto.svg"
+    },
+    {
+        "code": "TND",
+        "flag": "https://restcountries.eu/data/tun.svg"
+    },
+    {
+        "code": "TRY",
+        "flag": "https://restcountries.eu/data/tur.svg"
+    },
+    {
+        "code": "TMT",
+        "flag": "https://restcountries.eu/data/tkm.svg"
+    },
+    {
+        "code": "TVD",
+        "flag": "https://restcountries.eu/data/tuv.svg"
+    },
+    {
+        "code": "UGX",
+        "flag": "https://restcountries.eu/data/uga.svg"
+    },
+    {
+        "code": "UAH",
+        "flag": "https://restcountries.eu/data/ukr.svg"
+    },
+    {
+        "code": "AED",
+        "flag": "https://restcountries.eu/data/are.svg"
+    },
+    {
+        "code": "GBP",
+        "flag": "https://restcountries.eu/data/gbr.svg"
+    },
+    {
+        "code": "UYU",
+        "flag": "https://restcountries.eu/data/ury.svg"
+    },
+    {
+        "code": "UZS",
+        "flag": "https://restcountries.eu/data/uzb.svg"
+    },
+    {
+        "code": "VUV",
+        "flag": "https://restcountries.eu/data/vut.svg"
+    },
+    {
+        "code": "VEF",
+        "flag": "https://restcountries.eu/data/ven.svg"
+    },
+    {
+        "code": "VND",
+        "flag": "https://restcountries.eu/data/vnm.svg"
+    },
+    {
+        "code": "YER",
+        "flag": "https://restcountries.eu/data/yem.svg"
+    },
+    {
+        "code": "ZMW",
+        "flag": "https://restcountries.eu/data/zmb.svg"
+    }
+]
